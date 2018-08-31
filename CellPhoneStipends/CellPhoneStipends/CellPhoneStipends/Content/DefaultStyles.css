@@ -1,0 +1,28 @@
+﻿.subtext {
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 1em;
+}
+
+.ApprovalCheckbox {
+    height: 2.5em; 
+    width: 1.5em; 
+    text-align: center;
+    display: inline-block;
+}
+
+.ApprovalLabel {
+    text-align: center; 
+    vertical-align: text-top;
+    display: block;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.ApprovalButton {
+    display: block;
+    line-height: 1em;
+    margin: 0 auto;
+    margin-top: 1.25em;
+}
+
